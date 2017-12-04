@@ -14,7 +14,8 @@
  What is the result?
  */
 // Type the code below this line
-
+var myName : String
+print(myName)
 /*:
  
  Open the debug area by pressing **Command-Shift-Y**.
@@ -28,7 +29,7 @@
  Now remove your code from above, and type the following instead:
  
  ![declare-with-value](declare-with-value.png)
- 
+ 
  Run the playground again.
  
  How does the result differ?
